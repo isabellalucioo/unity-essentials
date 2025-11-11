@@ -17,7 +17,7 @@ public class AudioDelayer : MonoBehaviour
 
     void Awake()
     {
-        audioSource = GetComponent<AudioSource>();
+        audioSource = GetComponent<AudioSource>(); 
         audioSource.playOnAwake = false;
 
         if (warnIfNotCubeTag && !CompareTag("Cube"))
