@@ -2,12 +2,12 @@
 
 This project is the outcome of my game design learning through the **Unity Essentials Pathway** by Unity Learn. It’s a portfolio piece that showcases a variety of 2D and 3D game development, from scene setup to C# coding and WebGL publishing. Built with Unity 6000.2.6f2, this project is published to Unity Play, access it down below!
 
-## What I’ve Learned
-Here’s what I learned and built in this pathway:
+## What I’ve Did
+Here’s what I did and learned in this pathway:
 - **Editor Essentials**: Explored the Unity Editor interface and mastered 3D scene navigation.
-- **3D Essentials**: Created a tangram mural in the Scene view and furnished a kid’s bedroom with 3D assets.
+- **3D Essentials**: Created a tangram mural in the Scene view using the editing tools and furnished a kid’s bedroom with 3D assets.
 - **Audio Essentials**: Designed immersive soundscapes.
-- **2D Essentials**: Built a 2D room with 2D sprites and completed a 2D game.
+- **2D Essentials**: Built a 2D room with 2D sprites and completed a simple 2D game.
 - - **Programming Essentals (Scripting in C#)**:
   - Created a collectible that spawns a particle effect and play an audio clip when picked up.
   - Constrained the character movement based on the rotation and location axis
